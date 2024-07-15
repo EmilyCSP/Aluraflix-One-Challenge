@@ -1,4 +1,5 @@
-# AluraFlix
+# AluraFlix versel:https: https://aluraflix-one-challenge.vercel.app/
+
 
 AluraFlix é uma aplicação simples para criar e gerenciar cards de vídeos.
 
